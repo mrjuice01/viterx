@@ -40,6 +40,10 @@ src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=WhatsApp+H
 </br>
      </br>  
      
+ ### Preview Script👇
+
+- [x] Welcome <details><summary>Screenshot</summary><img src="https://user-images.githubusercontent.com/100421286/193366976-8b220b8b-c557-4c3f-beaf-11f2fcfb7ff7.jpg"></details>   
+     
 # Tutorials Video
 Click [here](https://m.youtube.com/channel/UCK29cXcpU7LKQCldqOsPzgg) for Video
 ```
