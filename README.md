@@ -44,9 +44,20 @@ src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=Strong+And
      
 # Tutorials Video
 Click [here](https://m.youtube.com/channel/UCK29cXcpU7LKQCldqOsPzgg) for Video
+
+<!-- Installation via Termux -->
+<b><details><summary>Installation on Termux</summary></b>
+```bash
+> apt update
+> apt upgrade
+> pkg install python
+> pkg install git -y
+> git clone https://github.com/mrjuice01/viterx
+> cd viterx
+> python Viterx.py
 ```
-Too bad That I wont give Comants On How To use it Unless You Follow All my Accounts 
-```
+</details>
+
 # CONTACT
 Click [here](https://bio.link/mrjuice) to contact me
 
