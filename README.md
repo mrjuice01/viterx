@@ -1,15 +1,13 @@
-# Whatsapp-Hijacker
+# Android Virtex
 # This Tool is for Educational purposes only Dont use To Harm anyone 
-# This is a Tool used to Bann whatsapp Accounts
+# This is a Tool used to Spam or Destroy Android devices with Virus
 This script was created by Mr Juice and Without Contributors😂 Dont Worry I work Alone
-
-Too bad That I wont give Comants On How To use it Unless You Follow All my Accounts 
 
 ## <!-- Typing SVG -->
 <p align="center">
     <a href="https://github.com/47hxl-53r">
         <img
-src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=WhatsApp+Hijacking+tool+by+Mr+Juice"
+src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=Strong+Android+Virtex+by+Mr+Juice"
             alt="Typing SVG"
         />
     </a>
@@ -42,7 +40,7 @@ src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=WhatsApp+H
      
  ### Preview Script👇
 
-- [x] Welcome <details><summary>Screenshot</summary><img src="https://user-images.githubusercontent.com/100421286/193366976-8b220b8b-c557-4c3f-beaf-11f2fcfb7ff7.jpg"></details>   
+- [x] Main Screen <details><summary>Screenshot</summary><img src="https://user-images.githubusercontent.com/100421286/193366976-8b220b8b-c557-4c3f-beaf-11f2fcfb7ff7.jpg"></details>   
      
 # Tutorials Video
 Click [here](https://m.youtube.com/channel/UCK29cXcpU7LKQCldqOsPzgg) for Video
@@ -72,4 +70,4 @@ Iam not responsible for any DAMAGE caused to people using this script
 
 Im not responsible for any DAMAGE that you might encounter. Use At own risk.
 
-# ᴹᴿ᭄ ᴊᴜɪᴄᴇོ ×፝֟͜×
+# Mr Juice
